@@ -46,7 +46,8 @@ const Header = () => {
             <Tooltip label="Cart" aria-label="A tooltip">
               <ShoppingCart />
             </Tooltip>
-            <span className="p-1 px-2 bg-red-200 text-xs rounded-full">1</span>
+            <span className="p-1 bg-red-500 
+            text-xs rounded-full">1</span>
           </Link>
 
           <Link to="/wishlist">
