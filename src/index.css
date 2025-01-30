@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+body{
+     font-family: "Inter", serif;
+  font-optical-sizing: auto;
+}
+
+flexbetween{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
